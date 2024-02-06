@@ -2,7 +2,7 @@
 
 Reddit:
 
-* [Crealityhehe](https://www.reddit.com/r/Creality/)
+* [Creality](https://www.reddit.com/r/Creality/)
 * [Ender3V3SE (unofficial)](https://www.reddit.com/r/Ender3V3SE/)
 
 Facebook:

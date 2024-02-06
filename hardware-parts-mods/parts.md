@@ -16,7 +16,8 @@ CHT nozzle should provide more flow to print faster.
 
 Remember that changing nozzle invalidates your z-offset.
 
------------------
+***
+
 We're currently compiling the list of replacement parts fitting Ender 3 V3 SE. Any parts listed here are confirmed purchases that fit the printer.
 
 Come back later for more!
