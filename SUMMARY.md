@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome!](README.md)
-* [Community](community.md)
+* [🌐 Community](community.md)
 * [Slicers](slicers.md)
 
 ## Hardware, parts, mods
