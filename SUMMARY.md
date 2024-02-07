@@ -17,16 +17,8 @@
 * [Klipper](remote-control/klipper.md)
 * [Octoprint](remote-control/octoprint.md)
 
-## TEST
-
-* [How to start](test/how-to-start.md)
-
 ***
 
 * [🎨 Models sites](models-sites.md)
 * [📚 Guides](guides.md)
 * [📜 Credits](credits.md)
-
-## Group 1
-
-* [Page 1](group-1/page-1.md)
