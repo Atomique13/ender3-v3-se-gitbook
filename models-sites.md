@@ -1,5 +1,7 @@
 ---
-description: A list of sites with 3D designs you can print.
+description: >-
+  A list of sites with 3D designs you can print. There are free models and paid
+  models.
 layout:
   title:
     visible: true
@@ -17,7 +19,8 @@ layout:
 
 * [printables.com](https://www.printables.com/) - by Prusa
 * [thingverse.com](https://www.thingiverse.com/) - by UltiMaker
-* [makerworld.com](https://makerworld.com/en) - by Bambu Labs
+* [makerworld.com](https://makerworld.com/) - by Bambu Labs
+* [cults3d.com](https://cults3d.com/)
 * [myminifactory.com](https://www.myminifactory.com/)&#x20;
 * [grabcad.com/library](https://grabcad.com/library)&#x20;
 * [yeggi.com](https://www.yeggi.com/) - this is an aggregator from various sites
