@@ -1,9 +1,6 @@
-# Klipper
+# 📎 Klipper
 
-### Klipper
-
-* [Official site](https://www.klipper3d.org)
-* [Discord](https://discord.klipper3d.org)
+[klipper3d.org](https://www.klipper3d.org/)
 
 #### Klipper on Ender 3 V3 SE
 

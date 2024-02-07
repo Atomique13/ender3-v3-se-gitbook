@@ -2,13 +2,13 @@
 
 Here you have 2 options: [Klipper](klipper.md) or [OctoPrint](octoprint.md).
 
-### Remote monitoring additions
+## Remote monitoring additions
 
-#### Camera
+### Camera
 
-Go for Logitech C270 (1280x720) or Logitech C920 (FHD). These 2 have greatest number of available printed mods, I think C270 even more that C920. IMO C270 is more than enough for job monitoring.
+Go for Logitech C270 (720p@30fps) or Logitech C920 (1080p@30fps). These 2 have a great number of available printed mods, I think C270 even more that C920. IMO C270 is more than enough for job monitoring.
 
-#### Sonic Pad
+### Sonic Pad
 
 Sonic Pad is Creality T800 AllWinner tablet with preinstalled and customized Klipper. The OS is pretty much closed (even if rooted) and does not allow for any modifications outside what can be seen in the webUI (no KAMP, no Telegram bot, nothing).
 
@@ -26,3 +26,5 @@ Does it work? Yes. Do you need it? That depends. You can refer to the table belo
 | Built-in G-Sensor calibration          | Slicer profiles may not have compatibile commands  |
 
 You can buy one here: [Aliexpress](https://www.aliexpress.com/item/1005005573923853.html). My purchase from the link above came with serial cable and G-Sensor however it was noted that not all boxes had these cables included. Links to these cables is listed above.
+
+### Nebula Pad
