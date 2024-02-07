@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [👋 Welcome!](README.md)
 * [🌐 Community](community.md)
 * [Slicers](slicers.md)
 
