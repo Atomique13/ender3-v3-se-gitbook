@@ -1,6 +1,8 @@
-# 👋 Welcome!
+---
+description: Hello!
+---
 
-Hello!
+# 👋 Welcome
 
 I hope you're enjoying your Ender 3 V3 SE so far. If you'd like to learn more about the printer and explore its capabilities, please check articles in the side menu.
 

@@ -1,6 +1,8 @@
-# 📜 Credits
+---
+description: Thanks to
+---
 
-Thanks to
+# 📜 Credits
 
 * [suchmememanyskill](https://github.com/suchmememanyskill)
 * [0xD34D](https://github.com/0xD34D)
