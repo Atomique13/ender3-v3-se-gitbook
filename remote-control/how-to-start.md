@@ -1,4 +1,4 @@
-# How to start?
+# 🏁 How to start
 
 Here you have 2 options: [Klipper](klipper.md) or [OctoPrint](octoprint.md).
 

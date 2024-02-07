@@ -1,8 +1,6 @@
----
-description: Printing profiles for Ender 3 V3 SE.
----
-
 # 🔪 Slicers
+
+Printing profiles for Ender 3 V3 SE.
 
 ## Printing profiles
 

@@ -1,7 +1,4 @@
 ---
-description: >-
-  A list of sites with 3D designs you can print. There are free models and paid
-  models.
 layout:
   title:
     visible: true
@@ -16,6 +13,8 @@ layout:
 ---
 
 # 🎨 Models sites
+
+A list of sites with 3D designs you can print. There are free models and paid models.
 
 * [printables.com](https://www.printables.com/) - by Prusa
 * [thingverse.com](https://www.thingiverse.com/) - by UltiMaker

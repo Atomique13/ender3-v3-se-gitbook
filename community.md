@@ -1,8 +1,6 @@
----
-description: Places where you can chat with other users.
----
-
 # 🌐 Community
+
+Places where you can chat with other users.
 
 ## Discord
 
