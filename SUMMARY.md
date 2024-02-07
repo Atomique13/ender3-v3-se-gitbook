@@ -1,11 +1,13 @@
 # Table of contents
 
-* [👋 Welcome!](README.md)
+* [Page 1](README.md)
+* [👋 Welcome!](<README (1).md>)
 * [🌐 Community](community.md)
 * [🔪 Slicers](slicers.md)
 
 ## Hardware, parts, mods
 
+* [Page](hardware-parts-mods/page.md)
 * [Specification](hardware-parts-mods/specification.md)
 * [Parts](hardware-parts-mods/parts.md)
 * [Mods](hardware-parts-mods/mods.md)
