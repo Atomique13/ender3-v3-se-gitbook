@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome!](README.md)
+* [👋 Welcome](README.md)
 * [🌐 Community](community.md)
 * [🔪 Slicers](slicers.md)
 
@@ -12,10 +12,14 @@
 
 ## Remote control
 
-* [How to start?](remote-control/how-to-start.md)
+* [How to start](remote-control/how-to-start.md)
 * [More about remote control](remote-control/more-about-remote-control.md)
 * [Klipper](remote-control/klipper.md)
 * [Octoprint](remote-control/octoprint.md)
+
+## TEST
+
+* [How to start](test/how-to-start.md)
 
 ***
 
