@@ -2,7 +2,7 @@
 
 Hello!
 
-I hope you're enjoying your Ender 3 V3 SE so far. If you'd like to learn more about the printer and explore its capabilities, please check articles in the sidemenu.
+I hope you're enjoying your Ender 3 V3 SE so far. If you'd like to learn more about the printer and explore its capabilities, please check articles in the side menu.
 
 This site has been created from [Awesome Resources for Ender 3 V3 SE](https://github.com/pwlgrzs/awesome-resources-for-ender-3-v3-se) Github repository for better readability.
 

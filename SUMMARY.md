@@ -19,6 +19,6 @@
 
 ***
 
-* [Models sites](models-sites.md)
-* [Guides](guides.md)
+* [🎨 Models sites](models-sites.md)
+* [📚 Guides](guides.md)
 * [📜 Credits](credits.md)
