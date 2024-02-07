@@ -6,7 +6,7 @@
 
 ## Hardware-parts-mods
 
-* [📝 Specification](hardware-parts-mods/specification.md)
+* [📝 Specs](hardware-parts-mods/specification.md)
 * [🔩 Parts](hardware-parts-mods/parts.md)
 * [🛠 Mods](hardware-parts-mods/mods.md)
 
@@ -22,3 +22,4 @@
 * [🎨 Models sites](models-sites.md)
 * [📚 Guides](guides.md)
 * [📜 Credits](credits.md)
+* [🤺 Todo](todo.md)

@@ -1,4 +1,4 @@
-# Specification
+# 📝 Specs
 
 Technical specification as provided by Creality:
 

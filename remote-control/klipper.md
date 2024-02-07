@@ -2,9 +2,7 @@
 
 [klipper3d.org](https://www.klipper3d.org/)
 
-#### Klipper on Ender 3 V3 SE
-
-While it is possible to flash klipper onto Ender 3 V3 SE board following features are not (yet) working or there are testing releases availabe from other code creators.
+While it is possible to flash Klipper on Ender 3 V3 SE board following features are not (yet) working or there are testing releases availabe from other code creators.
 
 * automatic Z-offset probing
 * screen (it is in the screensaver mode after flashing)

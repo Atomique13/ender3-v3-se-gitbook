@@ -2,7 +2,7 @@
 
 [octoprint.org](https://octoprint.org/)
 
-Technically there is no "OctoPrint on Ender 3 V3 SE" as you won't be installing any firmware. All it takes is to install OctoPrint on a computer connected by USB-C cable to the printer and you're set for the most part.
+Technically there is no "OctoPrint on Ender 3 V3 SE" as you won't be installing any firmware on the printer. All it takes is to install OctoPrint on a computer connected by USB-C cable to the printer and you're set for the most part.
 
 OctoPrint will communicate with stock Marlin firmware providing remote controls, job monitoring, telegram notifications and much more with a good number of available plugins.
 
