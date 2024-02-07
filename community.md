@@ -1,5 +1,7 @@
 # 🌐 Community
 
+Places where you can chat with other users.
+
 ## Discord
 
 * [E3V3 Series | Unofficial](https://discord.gg/gYyN3zJEW6)

@@ -6,7 +6,6 @@
 
 ## Hardware, parts, mods
 
-* [Page](hardware-parts-mods/page.md)
 * [Specification](hardware-parts-mods/specification.md)
 * [Parts](hardware-parts-mods/parts.md)
 * [Mods](hardware-parts-mods/mods.md)
